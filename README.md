@@ -1,8 +1,8 @@
-*Projeto Sustentabilidade* 🌱
+**Projeto Sustentabilidade** 🌱
 
-Bem-vindo ao nosso projeto de sustentabilidade! Este site educativo tem como objetivo promover a consciência ambiental e incentivar práticas mais sustentáveis no dia a dia. Pequenas ações podem gerar grandes impactos!
+**Bem-vindo ao nosso projeto de sustentabilidade! Este site educativo tem como objetivo promover a consciência ambiental e incentivar práticas mais sustentáveis no dia a dia. Pequenas ações podem gerar grandes impactos!**
 
-Tecnologias Utilizadas
+**TECNOLOGIAS UTILIZADAS**
 
 HTML
 
@@ -14,7 +14,7 @@ JavaScript
 
 jQuery
 
-Funcionalidades
+**FUNCIONALIDADES**
 
 Conteúdo educativo sobre sustentabilidade
 
@@ -24,7 +24,7 @@ Interatividade e animações usando JavaScript e jQuery
 
 Recursos visuais para engajar o usuário
 
-Como Usar
+**COMO USAR**
 
 Clone o repositório:
 
@@ -32,7 +32,7 @@ git clone https://github.com/seu-usuario/projeto-sustentabilidade.git
 
 Abra o arquivo index.html no seu navegador.
 
-Contribuição
+**CONTRIIÇÕES**
 
 Contribuições são bem-vindas! Se você quiser sugerir melhorias ou adicionar conteúdo:
 
@@ -40,7 +40,7 @@ Abra uma issue para relatar problemas ou ideias
 
 Envie um pull request com suas alterações
 
-Licença
+**LICENÇA**
 
 Este projeto é open source. Fique à vontade para estudar, usar e contribuir!
 
