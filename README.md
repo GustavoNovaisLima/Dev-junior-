@@ -1,4 +1,4 @@
-Projeto Sustentabilidade 🌱
+*Projeto Sustentabilidade* 🌱
 
 Bem-vindo ao nosso projeto de sustentabilidade! Este site educativo tem como objetivo promover a consciência ambiental e incentivar práticas mais sustentáveis no dia a dia. Pequenas ações podem gerar grandes impactos!
 
