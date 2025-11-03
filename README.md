@@ -48,4 +48,4 @@ Envie um pull request com suas alterações
 
 Este projeto é open source. Fique à vontade para estudar, usar e contribuir!
 
-🌍💚 Vamos juntos construir um futuro mais ver
+🌍💚 Vamos juntos construir um futuro melhor
