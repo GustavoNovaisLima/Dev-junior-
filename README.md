@@ -4,25 +4,25 @@
 
 **TECNOLOGIAS UTILIZADAS**
 
-HTML
+-HTML
 
-CSS
+-CSS
 
-Bootstrap
+-Bootstrap
 
-JavaScript
+-JavaScript
 
-jQuery
+-jQuery
 
 **FUNCIONALIDADES**
 
-Conteúdo educativo sobre sustentabilidade
+-Conteúdo educativo sobre sustentabilidade
 
-Layout responsivo com Bootstrap
+-Layout responsivo com Bootstrap
 
-Interatividade e animações usando JavaScript e jQuery
+-Interatividade e animações usando JavaScript e jQuery
 
-Recursos visuais para engajar o usuário
+-Recursos visuais para engajar o usuário
 
 **COMO USAR**
 
