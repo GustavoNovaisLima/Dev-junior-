@@ -14,6 +14,7 @@
 
 **5.** jQuery
 
+
 **FUNCIONALIDADES**
 
 **.** Conteúdo educativo sobre sustentabilidade
@@ -24,6 +25,7 @@
 
 **.** Recursos visuais para engajar o usuário
 
+
 **COMO USAR**
 
 Clone o repositorio:
@@ -32,6 +34,7 @@ git clone https://github.com/seu-usuario/projeto-sustentabilidade.git
 
 Abra o arquivo index.html no seu navegador.
 
+
 **CONTRIIÇÕES**
 
 Contribuições são bem-vindas! Se você quiser sugerir melhorias ou adicionar conteúdo:
@@ -39,6 +42,7 @@ Contribuições são bem-vindas! Se você quiser sugerir melhorias ou adicionar 
 Abra uma issue para relatar problemas ou ideias
 
 Envie um pull request com suas alterações
+
 
 **LICENÇA**
 
