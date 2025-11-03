@@ -26,7 +26,7 @@
 
 **COMO USAR**
 
-Clone o repositório:
+Clone o repositorio:
 
 git clone https://github.com/seu-usuario/projeto-sustentabilidade.git
 
